@@ -32,13 +32,45 @@ Key Performance Indicators (KPIs) Requirements:
 metrics such as Total Loan Applications, Total Funded Amount, Total Amount Received, MTD Funded Amount, MTD Amount Received, Average Interest Rate, and Average DTI.
 
 
-- Summary Dashboard
+**Summary Dashboard**
 
 <img width="1321" height="739" alt="Screenshot 2025-09-26 124129" src="https://github.com/user-attachments/assets/d4ee1f15-f12c-40d0-ab43-80844c3a1dc6" />
 
 
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ ### Dashboard 2: Overview
+ 
+1. **Monthly Trends by Issue Date (Line Chart)**: Identify seasonality and long-term trends in lending activities.
+2. **Loan Term Analysis (Donut Chart)**: Understand the distribution of loans across various term lengths.
+3. **Employee Length Analysis (Bar Chart)**: Assess how lending metrics are distributed among borrowers with different employment lengths.
+4. **Loan Purpose Breakdown (Bar Chart)**: Provide a visual breakdown of loan metrics based on stated purposes of loans.
+5. **Home Ownership Analysis (Tree Map)**: View how home ownership impacts loan applications and disbursements hierarchically.
+
+
+**Overview Dashboard**
+
+<img width="1322" height="746" alt="Screenshot 2025-09-26 152250" src="https://github.com/user-attachments/assets/534dd50c-c562-449b-99fa-588e7d37f6c9" />
+
+
+### Dashboard 3: Details
+
+**Objective**:
+
+The Details Dashboard provides a comprehensive view of key loan-related metrics and data points, facilitating efficient access to critical information about loan portfolios,
+borrower profiles, and loan performance.
+
+**Dataset Used**:
+
+The bank loan analysis dataset comprises essential fields such as Loan ID, Address State, Purpose, Grade, Sub Grade, Annual Income, Loan Status, Last Payment Date, Verification
+Status, Debt-to-Income Ratio, and Interest Rates. These fields provide insights into borrower demographics, employment stability, loan characteristics, risk assessment, and
+payment behavior.
+
+<img width="1318" height="740" alt="Screenshot 2025-09-26 124203" src="https://github.com/user-attachments/assets/01fef4f7-12f0-41be-81f3-dd25176386ab" />
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Looking for Opportunities
 
@@ -47,4 +79,4 @@ metrics such as Total Loan Applications, Total Funded Amount, Total Amount Recei
 ### If you know of any opportunities or would like to connect, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/pruthviraj-kadam-patil/) or via email at pruthvirajkadam009@gmail.com
 
 ### Thanks in Advance
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

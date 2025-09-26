@@ -3,11 +3,16 @@
 - [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjZkNmZhZTAtMjBlYS00MzZlLWFlM2MtZmZlYmExZGZmYTZmIiwidCI6IjgzYTI2YTFiLTkzN2MtNDMyNy1iNzEzLWM5OWUzMjQ4MjU3NCJ9)
 
 
+This project conducts a comprehensive analysis of bank loan data, leveraging Power BI for visualization and further analysis. The
+primary objective is to extract actionable insights related to loan applications, funding, repayments, and borrower demographics, facilitating informed decision-making in
+financial services.
 
+### Objectives
 
-
-
-
+- Holistic Portfolio Assessment: Provide an overarching view of the bank's loan portfolio performance.
+- Trend Identification: Detect patterns in loan applications, approval rates, and repayment statuses.
+- Financial Health Evaluation: Assess key performance indicators (KPIs) such as Total Funded Amount, Average Interest Rate, and Loan Status.
+- Strategic Decision Support: Aid in strategic planning for the bank's credit and loan offerings.
 
 
 

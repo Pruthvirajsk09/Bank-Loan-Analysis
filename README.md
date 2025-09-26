@@ -26,6 +26,14 @@ Key Performance Indicators (KPIs) Requirements:
 5. **Average Debt-to-Income Ratio (DTI)**: Evaluate the average DTI for borrowers, compute the average DTI for all loans, MTD, and track MoM fluctuations.
 
 
+**Summary Visualization:**
+
+**Loan Status Grid View**: Gain a comprehensive overview of lending operations and monitor loan performance categorized by 'Loan Status'. This grid view provides insights into
+metrics such as Total Loan Applications, Total Funded Amount, Total Amount Received, MTD Funded Amount, MTD Amount Received, Average Interest Rate, and Average DTI.
+
+
+- Summary Dashboard
+
 <img width="1321" height="739" alt="Screenshot 2025-09-26 124129" src="https://github.com/user-attachments/assets/d4ee1f15-f12c-40d0-ab43-80844c3a1dc6" />
 
 

@@ -65,6 +65,8 @@ The bank loan analysis dataset comprises essential fields such as Loan ID, Addre
 Status, Debt-to-Income Ratio, and Interest Rates. These fields provide insights into borrower demographics, employment stability, loan characteristics, risk assessment, and
 payment behavior.
 
+**Details Dashboard**
+
 <img width="1318" height="740" alt="Screenshot 2025-09-26 124203" src="https://github.com/user-attachments/assets/01fef4f7-12f0-41be-81f3-dd25176386ab" />
 
 
